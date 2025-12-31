@@ -133,11 +133,11 @@ A **multi-modal AIoT system** that:
 
 ##  What Makes This Different?
 
-* ✅ Multi-modal sensing (not camera-only)
-* ✅ No wearable devices
-* ✅ Fully edge-based (no cloud)
-* ✅ Works even if one sensor fails
-* ✅ Privacy-first architecture
+*  Multi-modal sensing (not camera-only)
+*  No wearable devices
+*  Fully edge-based (no cloud)
+*  Works even if one sensor fails
+*  Privacy-first architecture
 
 ---
 
