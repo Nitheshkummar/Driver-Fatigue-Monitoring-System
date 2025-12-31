@@ -1,4 +1,4 @@
-# 🚗 Driver Fatigue Monitoring System (AIoT)
+#  Driver Fatigue Monitoring System (AIoT)
 
 **Team Name:** Hallies
 **Team Leader:** Nitheshkummar C
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Driver fatigue and stress are among the leading causes of road accidents, especially in **public transportation and fleet operations** such as buses and taxis. Existing solutions often rely on **camera-only systems, wearable devices, or cloud-based processing**, which raise concerns about **privacy, cost, latency, and adoption**.
 
@@ -16,7 +16,7 @@ This project presents a **privacy-preserving, edge-based Driver Fatigue Monitori
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 * Driver fatigue and stress significantly increase accident risk
 * Camera-only systems fail in low light or occlusion scenarios
@@ -27,7 +27,7 @@ This project presents a **privacy-preserving, edge-based Driver Fatigue Monitori
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 A **multi-modal AIoT system** that:
 
@@ -42,7 +42,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * Real-time fatigue and stress detection
 * Camera-based eye closure & head movement analysis
@@ -54,7 +54,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🧠 AI Technologies Used
+##  AI Technologies Used
 
 * **Computer Vision (OpenCV)**
 
@@ -72,7 +72,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🔧 Hardware Components
+##  Hardware Components
 
 | Component             | Purpose                             |
 | --------------------- | ----------------------------------- |
@@ -85,7 +85,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 **Input Sensors → ESP32 Edge Processing → Driver State Classification → Alerts**
 
@@ -108,7 +108,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🔄 Process Flow
+##  Process Flow
 
 1. System initialization
 2. Continuous camera data capture
@@ -121,7 +121,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🧪 Simulation & Mock Frames
+##  Simulation & Mock Frames
 
 * Driver fatigue detection visualization
 * ESP32-based system simulation
@@ -131,7 +131,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🆚 What Makes This Different?
+##  What Makes This Different?
 
 * ✅ Multi-modal sensing (not camera-only)
 * ✅ No wearable devices
@@ -141,7 +141,7 @@ A **multi-modal AIoT system** that:
 
 ---
 
-## 🚀 Applications
+##  Applications
 
 * Public transport buses
 * Taxi & ride-hailing fleets
