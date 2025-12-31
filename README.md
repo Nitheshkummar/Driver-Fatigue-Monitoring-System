@@ -1,10 +1,10 @@
 #  Driver Fatigue Monitoring System (AIoT)
 
 **Team Name:** Hallies
+
 **Team Leader:** Nitheshkummar C
+
 **Track:** AIoT
-**Institution:** Amrita Vishwa Vidyapeetham
-**Forum:** IETE Student Forum
 
 ---
 
